@@ -1,0 +1,31 @@
+h1
+{
+	color: hotpink;
+
+}
+h2
+{
+	color: hotpink;
+
+}
+
+body
+{
+	background-color: beige;
+}	
+
+p
+{
+	color: black;
+}
+
+#photo
+{
+margin:0 auto; 	
+text-align: center;
+align-content: center;
+}
+
+img{
+	height: 300px;
+}
